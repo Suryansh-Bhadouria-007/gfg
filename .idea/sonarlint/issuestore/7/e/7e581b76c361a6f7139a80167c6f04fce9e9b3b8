@@ -1,0 +1,11 @@
+
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÂóÜ€şÿÿÿÿ8Ó¿œş€-
+[squid:S1197Q"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ŸÜËô€-
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(±¼à†8ŸÜËô€-
+Tsquid:S26965"6Make the enclosing method "static" or remove this set.(öÿ—8ŸÜËô€-
+wsquid:S3008"TRename this field "max_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÓÌ–ıÿÿÿÿ8ŸÜËô€-
+Asquid:S1659"#Declare "right" on a separate line.(çùà¶8ŸÜËô€-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8óÏ°ş€-

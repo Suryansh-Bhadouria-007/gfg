@@ -1,0 +1,8 @@
+
+Ssquid:S2209"5Change this instance-reference to a static reference.(Ööˆ—8ô¼•ù€-
+[squid:S1197"8Move the array designator from the variable to the type.(§»¬èûÿÿÿÿ8Èûø€-
+Ssquid:S2209"5Change this instance-reference to a static reference.(Ööˆ—8ô¼•ù€-
+Vsquid:S1854"8Remove this useless assignment to local variable "arr2".(¸¹«Ù8ñŒ•ù€-
+Ysquid:S2440"6Remove this instantiation of "MaxSumNonAdjacentArray".(¨±Ìøÿÿÿÿ8ÔÄù€-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8çñ•ù€-

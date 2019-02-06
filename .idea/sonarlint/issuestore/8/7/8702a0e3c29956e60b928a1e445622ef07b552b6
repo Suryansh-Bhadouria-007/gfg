@@ -1,0 +1,15 @@
+
+psquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÏºú8ÿä-
+Vsquid:S1197	"8Move the array designator from the variable to the type.(ÃÏºú8ÿä-
+Vsquid:S1197"8Move the array designator from the variable to the type.(”ëòÆ8¼³è-
+Vsquid:S1197"8Move the array designator from the variable to the type.(Ñ²›Ù8ÿä-
+U
+squid:S106O"9Replace this use of System.out or System.err by a logger.(À®ù8«áĞ-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8«áĞ-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¨ÿ<8ÿä-
+Vsquid:S1197S"8Move the array designator from the variable to the type.(‘¹á8«áĞ-
+usquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×é‡—ùÿÿÿÿ8«áĞ-
+Vsquid:S1197"8Move the array designator from the variable to the type.(Úí˜Õ8°éù-
+nsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8ê¦·-
+Usquid:S1197"8Move the array designator from the variable to the type.(Ò¨ÿ<8ÿä-
