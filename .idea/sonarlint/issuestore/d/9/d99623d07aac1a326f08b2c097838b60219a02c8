@@ -1,0 +1,30 @@
+
+Vsquid:S1197-"8Move the array designator from the variable to the type.(êÂõ¥8­Ë‘»˜-
+[squid:S1197D"8Move the array designator from the variable to the type.(³¡‡Ùùÿÿÿÿ8­Ë‘»˜-
+[squid:S1197E"8Move the array designator from the variable to the type.(“š¤®øÿÿÿÿ8ªİ»˜-
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¡‡Ùùÿÿÿÿ8ªİ»˜-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÄş
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Ìã˜8ªİ»˜-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·¾«»˜-
+Dsquid:S1481*"&Remove this unused "k" local variable.(òÎ²Œ8­Ë‘»˜-
+Vsquid:S1197="8Move the array designator from the variable to the type.(¤ãÃ8ªİ»˜-
+Ssquid:S1854*"5Remove this useless assignment to local variable "k".(òÎ²Œ8­Ë‘»˜-
+Vsquid:S1197"8Move the array designator from the variable to the type.(ğÕ£‚8­Ë‘»˜-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùï¾ÿÿÿÿÿ8·¾«»˜-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ûŸåşûÿÿÿÿ8­Ë‘»˜-
+Vsquid:S1197/"8Move the array designator from the variable to the type.(Ù­¶ô8­Ë‘»˜-
+[squid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8­Ë‘»˜-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(‚¹ ›8·¾«»˜-
+Bsquid:S1659F"Declare "k" on a separate line.(Æ™‚ùÿÿÿÿ8ªİ»˜-
+Vsquid:S1197"8Move the array designator from the variable to the type.(ş†»¬8­Ë‘»˜-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·¾«»˜-
+Ssquid:S1854+"5Remove this useless assignment to local variable "t".(ıèƒ8­Ë‘»˜-
+Dsquid:S1481+"&Remove this unused "t" local variable.(ıèƒ8­Ë‘»˜-
+Bsquid:S1659F"Declare "j" on a separate line.(Æ™‚ùÿÿÿÿ8ªİ»˜-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ªİ»˜-

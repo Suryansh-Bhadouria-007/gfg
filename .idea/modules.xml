@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geeksforgeeks.iml" filepath="$PROJECT_DIR$/geeksforgeeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kopal/kopal.iml" filepath="$PROJECT_DIR$/kopal/kopal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>

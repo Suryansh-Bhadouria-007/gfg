@@ -1,0 +1,10 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(›³t8å‹´’-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( í…8Ê¥«’-
+_squid:S1126"BReplace this if-then-else statement by a single method invocation.(ç¬ã`8·”¨’-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ8šÇîÁ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ˆˆ‹úÿÿÿÿ8šÇîÁ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(†«ºÉüÿÿÿÿ8šÇîÁ-

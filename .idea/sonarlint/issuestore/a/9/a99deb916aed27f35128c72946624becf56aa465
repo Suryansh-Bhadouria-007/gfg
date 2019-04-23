@@ -1,0 +1,30 @@
+
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(®õã‚8áÉ¥û-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(²¿Èáÿÿÿÿÿ8°‰û-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿêŒe8Ñû-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(®õã‚8å¿ïú-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ8áÉ¥û-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ8ˆ“ñú-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÜÿÏøÿÿÿÿ8éßìú-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŠ§ûÿÿÿÿ8å¿ïú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï“Ê×8”‡ôú-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ8ğšòú-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(âÁû©ûÿÿÿÿ8áÉ¥û-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ºŠ§ûÿÿÿÿ8€âƒû-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(®õã‚8ôàëú-
+U
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÿêŒe8ªÇ­û-
+dsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(‹¢ñß8àÛû-
+usquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚’˜çşÿÿÿÿ8ôàëú-
+dsquid:S21843"FCast one of the operands of this multiplication operation to a "long".(‹¢ñß8áÉ¥û-
+usquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ú»­úÿÿÿÿ8áÉ¥û-

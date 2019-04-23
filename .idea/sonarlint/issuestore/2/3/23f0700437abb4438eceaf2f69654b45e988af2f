@@ -1,0 +1,12 @@
+
+Esquid:S1125j"(Remove the literal "true" boolean value.(àÑ¿8´ÂáÀ˜-
+[squid:S1197"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ8¿ÀÀ˜-
+[squid:UnusedPrivateMethodz"/Remove this unused private "checkPrime" method.(Â¡ÌÌ8ˆ³ëÀ˜-
+[squid:S1197	"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ä—„²˜-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ˆ¤ÊÉúÿÿÿÿ8€ğ‘¹˜-
+Ksquid:S1125s"(Remove the literal "true" boolean value.(ä¾ë•şÿÿÿÿ8´ÂáÀ˜-
+Usquid:S1197("8Move the array designator from the variable to the type.(Óû¦B8òÂ’Â˜-
+[squid:S1197d"8Move the array designator from the variable to the type.(Ğˆ’Õüÿÿÿÿ8´ÂáÀ˜-
+Vsquid:S1197V"8Move the array designator from the variable to the type.(¢£¸­8şµªÂ˜-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÄş

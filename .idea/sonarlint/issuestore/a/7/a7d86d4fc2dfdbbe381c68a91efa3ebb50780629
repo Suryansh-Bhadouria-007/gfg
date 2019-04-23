@@ -1,0 +1,20 @@
+
+N
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¥èj
+fsquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ûƒ
+isquid:S00116+"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıøî øÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÿüÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÿüÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+9squid:S16590""Declare "dest" on a separate line.(•‡İ
+isquid:S00116+"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıøî øÿÿÿÿ
+Osquid:S1197-"8Move the array designator from the variable to the type.(‘·éŒ
+Osquid:S1197@"8Move the array designator from the variable to the type.(âğ‡è
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(º«ùÿÿÿÿÿ
+;squid:S1659+"Declare "E" on a separate line.(ıøî øÿÿÿÿ
+]squid:S1126f"AReplace this if-then-else statement by a single return statement.(öËøÌùÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck3"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Osquid:S1197G"8Move the array designator from the variable to the type.(„Ûƒ
+;squid:S1659"Declare "E" on a separate line.(¯ÿüÿÿÿÿ
+Osquid:S1197,"8Move the array designator from the variable to the type.(±›…

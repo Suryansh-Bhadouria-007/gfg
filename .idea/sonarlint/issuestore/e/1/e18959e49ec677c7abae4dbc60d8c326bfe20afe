@@ -1,0 +1,8 @@
+
+ksquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–‡£óùÿÿÿÿ
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(çè¿³
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(™ªÉ‚ÿÿÿÿÿ
+Tsquid:S1197	"8Move the array designator from the variable to the type.(“¤ìÔøÿÿÿÿ
+]squid:S1126O"AReplace this if-then-else statement by a single return statement.(öËøÌùÿÿÿÿ
+Tsquid:UnusedPrivateMethodL"0Remove this unused private "isConnected" method.(ÄÚ…

@@ -1,0 +1,19 @@
+
+isquid:S00116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıøî øÿÿÿÿ
+isquid:S00116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıøî øÿÿÿÿ
+;squid:S1659"Declare "E" on a separate line.(ıøî øÿÿÿÿ
+N
+squid:S106`"9Replace this use of System.out or System.err by a logger.(¥èj
+nsquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿µœøÿÿÿÿ
+Nsquid:S1197"8Move the array designator from the variable to the type.(˜ÓÁ 
+T
+squid:S106^"9Replace this use of System.out or System.err by a logger.(º«ùÿÿÿÿÿ
+9squid:S1659""Declare "dest" on a separate line.(•‡İ
+;squid:S1659N"Declare "E" on a separate line.(¿µœøÿÿÿÿ
+Osquid:S1197	"8Move the array designator from the variable to the type.(±›…
+nsquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿µœøÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
+Tsquid:S11970"8Move the array designator from the variable to the type.(¾œƒÖüÿÿÿÿ
+Tsquid:S1197#"8Move the array designator from the variable to the type.(ñ°›£ûÿÿÿÿ
+ksquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°›£ûÿÿÿÿ
